@@ -226,11 +226,12 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(65, 150);
+            this.label5.Location = new System.Drawing.Point(184, 263);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(35, 13);
+            this.label5.Size = new System.Drawing.Size(87, 13);
             this.label5.TabIndex = 15;
-            this.label5.Text = "label5";
+            this.label5.Text = "Je suis Soukaina";
+            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // Form1
             // 
