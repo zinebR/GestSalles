@@ -1,3 +1,12 @@
 c:\users\zineb regragui\documents\visual studio 2015\Projects\GestSalles\GestSalles\bin\Debug\GestSalles.exe.config
 C:\Users\Kukaa\Documents\Gestion_salles_info\Source\GestSalles\bin\Debug\GestSalles.exe.config
 C:\Users\Zineb Regragui\Documents\Visual Studio 2015\Projects\DedFSoukaina\GestSalles\bin\Debug\GestSalles.exe.config
+C:\Users\Kukaa\Documents\Gestion_salles_info\Gestion de Salles\GestSalles\bin\Debug\GestSalles.exe.config
+C:\Users\Kukaa\Documents\Gestion_salles_info\Gestion de Salles\GestSalles\bin\Debug\GestSalles.exe
+C:\Users\Kukaa\Documents\Gestion_salles_info\Gestion de Salles\GestSalles\bin\Debug\GestSalles.pdb
+C:\Users\Kukaa\Documents\Gestion_salles_info\Gestion de Salles\GestSalles\obj\Debug\GestSalles.csprojResolveAssemblyReference.cache
+C:\Users\Kukaa\Documents\Gestion_salles_info\Gestion de Salles\GestSalles\obj\Debug\GestSalles.Form1.resources
+C:\Users\Kukaa\Documents\Gestion_salles_info\Gestion de Salles\GestSalles\obj\Debug\GestSalles.Properties.Resources.resources
+C:\Users\Kukaa\Documents\Gestion_salles_info\Gestion de Salles\GestSalles\obj\Debug\GestSalles.csproj.GenerateResource.Cache
+C:\Users\Kukaa\Documents\Gestion_salles_info\Gestion de Salles\GestSalles\obj\Debug\GestSalles.exe
+C:\Users\Kukaa\Documents\Gestion_salles_info\Gestion de Salles\GestSalles\obj\Debug\GestSalles.pdb
