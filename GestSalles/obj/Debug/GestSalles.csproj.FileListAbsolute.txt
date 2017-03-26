@@ -1,2 +1,3 @@
 c:\users\zineb regragui\documents\visual studio 2015\Projects\GestSalles\GestSalles\bin\Debug\GestSalles.exe.config
 C:\Users\Kukaa\Documents\Gestion_salles_info\Source\GestSalles\bin\Debug\GestSalles.exe.config
+C:\Users\Kukaa\Documents\Gestion_salles_info\Gestion de Salles\GestSalles\bin\Debug\GestSalles.exe.config
